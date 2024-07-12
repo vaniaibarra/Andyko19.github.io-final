@@ -1,0 +1,28 @@
+body {
+  padding-top: 70px;
+}
+.bg-amarillogreen {
+  background-color: rgb(74, 194, 241);
+  margin: 0;
+}
+.card img {
+  height: 150px;
+  object-fit: cover;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.no-underline {
+  text-decoration: none;
+  color: inherit;
+}
+h4,
+h5,
+h6 {
+  text-align: center;
+}
